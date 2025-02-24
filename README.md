@@ -1,6 +1,6 @@
 ## Hi there 👋 </br> I am Afsar Uddin </br> Fullstack WordPress Web Developer
 ### SUMMARY
-- 6+ Years professional experience in Front End Web Design and WordPress Theme & Plugin Development
+- 8+ Years professional experience in Front End Web Design and WordPress Theme & Plugin Development
 - Working Experienced with complex and big projects
 - Experienced with UI design to interactive functional frontend website conversion
 - Experienced in Website redesign, clone, premium theme customization, speed optimization, css fixing and other issues fixing
