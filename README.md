@@ -1,7 +1,8 @@
-## Hi there 👋 </br> I am Afsar Uddin </br> Fullstack WordPress Web Developer
+# Fullstack WordPress Web Developer
 ### SUMMARY
 I’m a Full Stack WordPress Developer with over 8 years of professional experience in front-end web design, custom theme and plugin development. I specialize in building dynamic, high-performance websites — from transforming complex UI designs into fully interactive, functional frontends, to optimizing site speed and performance for scalability. I have extensive experience working on large-scale, feature-rich projects, including website redesigns, cloning, premium theme customization, and resolving advanced CSS and functionality issues. My expertise also spans custom plugin creation, API integration, and multilingual systems using Elementor, PHP, JavaScript (jQuery), and REST API. With a strong focus on detail and clean architecture, I strive to deliver efficient, scalable, and SEO-friendly WordPress solutions that align with modern web standards and client goals.
 
+## Work Experience
 ### ITClanBD - Dokkhinkhan, Uttara, Dhaka
 #### Full Stack WordPress Developer - May 2017 - Present
 - Converted design mockups into custom WordPress themes and plugins
@@ -33,28 +34,28 @@ Udemy - 2016, 2017 (8 Months)
 Programming Hero - 2020(6 months)
 
 ### TECHNICAL SKILLS
-#### Professional Experience: 
+#### Core Skills 
 PHP, MySQL, WordPress, Headless CMS, Javascript, jQuery, ReactJS, NextJS, Redux, Bootsrap, Tailwind, CSS3, HTML5 and SASS
 
-#### Version Controls: 
+#### Version Controls 
 Git, Github, Bitbucket 
 
-#### Project Management Tools: 
+#### Project Management Tools 
 Trello, Asana, Jira
 
-#### Design Tools: 
+#### Design Tools 
 Photoshop and Figma (Basic)
 
-#### Hosting: 
+#### Hosting 
 cPanel, Vercel, Heroku App
 
-#### Communications Medium: 
+#### Communications Medium 
 Slack, Mattermost, whatsApp, Skype Zoom, and Google Meet
 
-#### Code Editors: 
+#### Code Editors 
 Visual studio and Atom
 
-#### Familiar with: 
+#### Familiar with 
 TypeScript, npm, webpack, Strapi (CMS), GraphQL, Docker, CI/CD
 
 ### Contact mail: <a href="mailto:afsarwebdev@gmail.com">afsarwebdev@gmail.com</a>
