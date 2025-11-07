@@ -1,4 +1,4 @@
-# Fullstack WordPress Web Developer
+# Full Stack WordPress Web Developer
 ### SUMMARY
 I’m a Full Stack WordPress Developer with over 8 years of professional experience in front-end web design, custom theme and plugin development. I specialize in building dynamic, high-performance websites — from transforming complex UI designs into fully interactive, functional frontends, to optimizing site speed and performance for scalability. I have extensive experience working on large-scale, feature-rich projects, including website redesigns, cloning, premium theme customization, and resolving advanced CSS and functionality issues. My expertise also spans custom plugin creation, API integration, and multilingual systems using Elementor, PHP, JavaScript (jQuery), and REST API. With a strong focus on detail and clean architecture, I strive to deliver efficient, scalable, and SEO-friendly WordPress solutions that align with modern web standards and client goals.
 
